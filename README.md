@@ -1,0 +1,2 @@
+# Appointmentinterface
+React is a JavaScript library with reusable components and a unique data rendering approach. Web interfaces that I create with React are flexible, fast, and lightweight. In this project,  component architecture in React  to build interfaces.  pass data to a component, use the useState hook and conditional classes, and toggle items by passing the state to a sub-component and using values to hide or show sub-components,  delete records, search with a filtered array, set up a sort, and more,  adding appointments.
